@@ -1,5 +1,9 @@
 import os, shutil
 
+# TODO : 1.Expand Dictioanry (might be a good idea to webscrape Wikipedia)
+# TODO : 2.Add pyinputplus functionality for entering a valid inputFilepath() ! can check if file/folder exists
+
+
 # Sample dict for extensions
 file_types = {
     'Images': ['.jpeg', 'jpg', '.gif'],
