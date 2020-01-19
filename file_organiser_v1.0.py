@@ -14,11 +14,12 @@ file_types = {
     'APK Files': ['.apk'],
     'Subtitles': ['.srt'],
     'Zipped Files': ['.rar', '.zip', '.7zip'],
+    'Torrents': ['.torrent'],
 }
 
 # Add the folder you want organised
 ###############################################
-downloads_path = 'c:\\users\\ghira\\downloads'
+downloads_path = 'c:\\users\\danie\\downloads'
 ###############################################
 
 # Changing the directory to our downloads folder.
